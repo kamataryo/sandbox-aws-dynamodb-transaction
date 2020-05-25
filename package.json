@@ -1,0 +1,19 @@
+{
+  "name": "sandbox-aws-dynamodb-transaction",
+  "version": "0.0.0",
+  "main": "distindex.js",
+  "license": "MIT",
+  "dependencies": {},
+  "scripts": {
+    "test": "jest --cache"
+  },
+  "devDependencies": {
+    "@shelf/jest-dynamodb": "^1.7.0",
+    "@types/jest": "^25.2.3",
+    "aws-sdk": "^2.683.0",
+    "jest": "^26.0.1",
+    "ts-jest": "^26.0.0",
+    "ts-node": "^8.10.1",
+    "typescript": "^3.9.3"
+  }
+}

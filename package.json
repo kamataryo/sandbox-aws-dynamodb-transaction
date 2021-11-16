@@ -10,7 +10,7 @@
   "devDependencies": {
     "@shelf/jest-dynamodb": "^1.7.0",
     "@types/jest": "^25.2.3",
-    "aws-sdk": "^2.683.0",
+    "aws-sdk": "^2.814.0",
     "jest": "^26.0.1",
     "ts-jest": "^26.0.0",
     "ts-node": "^8.10.1",
